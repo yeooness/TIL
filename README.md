@@ -10,3 +10,5 @@
 ## ✏️ **2주차** 기록
 > - [[파이썬 기초]](./python_basics.md) 
 > - [[조건문,반복문]](./python2.md) 
+> - [codeup](./codeup) 
+
