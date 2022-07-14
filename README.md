@@ -18,3 +18,4 @@
 > - [codeup](https://github.com/yeooness/python/tree/master/Desktop/python/codeup)
 > - [실습문제 0712](https://github.com/yeooness/python/tree/master/Desktop/python/test0712)
 > - [실습문제 0713](https://github.com/yeooness/python/tree/master/Desktop/python/test0713)
+> - [실습문제 0714](https://github.com/yeooness/python/tree/master/Desktop/python/test0714)
