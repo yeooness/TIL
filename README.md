@@ -8,8 +8,12 @@
 > - [[git]](./git%20.md) 
 
 ## ✏️ **2주차** 기록
+   #### 이론 
 > - [[파이썬 기초]](./python_basics.md) 
-> - [[조건문,반복문]](./python2.md) 
+> - [[조건문,반복문]](https://github.com/yeooness/TIL/blob/master/0712.md) 
+> - [[함수]](https://github.com/yeooness/TIL/blob/master/0713.md)
+
+   #### 문제풀이
 > - [codeup](https://github.com/yeooness/python/tree/master/Desktop/python/codeup)
 > - [실습문제 0712](https://github.com/yeooness/python/tree/master/Desktop/python/test0712)
 > - [실습문제 0713](https://github.com/yeooness/python/tree/master/Desktop/python/test0713)
