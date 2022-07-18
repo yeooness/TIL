@@ -22,7 +22,7 @@
 
 ## ✏️ **3주차** 기록
    #### 이론 
-> - [에러/예외처리](./0718.md)
+> - [[에러/예외처리]](./0718.md)
    
    #### 문제풀이
 > - [실습문제 0718](https://github.com/yeooness/python/tree/master/Desktop/python/test0718)
