@@ -21,3 +21,7 @@
 > - [실습문제 0714](https://github.com/yeooness/python/tree/master/Desktop/python/test0714)
 
 ## ✏️ **3주차** 기록
+   #### 이론 
+   
+   #### 문제풀이
+> - [실습문제 0718]()
