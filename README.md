@@ -26,6 +26,6 @@
    
    #### 문제풀이
 > - [실습문제 0718](https://github.com/yeooness/python/tree/master/Desktop/python/test0718)
-> - [실습문제 0719]()
+> - [실습문제 0719](https://github.com/yeooness/python/tree/master/Desktop/python/test0719)
 > - [codeup](https://github.com/yeooness/python/tree/master/Desktop/python/codeup)
 > - [SWEA](https://github.com/yeooness/python/tree/master/Desktop/python/SWEA)
