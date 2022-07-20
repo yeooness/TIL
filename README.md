@@ -9,10 +9,10 @@
 
 ## ✏️ **2주차** 기록
    #### 이론 
-> - [[파이썬 기초]](./python_basics.md) 
-> - [[조건문,반복문]](https://github.com/yeooness/TIL/blob/master/0712.md) 
-> - [[함수]](https://github.com/yeooness/TIL/blob/master/0713.md)
-> - [[데이터 구조]](https://github.com/yeooness/TIL/blob/master/0714.md) 
+> - [[파이썬 기초]](https://github.com/yeooness/TIL/blob/master/이론정리/python_basics.md) 
+> - [[조건문,반복문]](https://github.com/yeooness/TIL/blob/master/이론정리/0712.md) 
+> - [[함수]](https://github.com/yeooness/TIL/blob/master/이론정리/0713.md)
+> - [[데이터 구조]](https://github.com/yeooness/TIL/blob/master/이론정리/0714.md)
 
    #### 문제풀이
 > - [codeup](https://github.com/yeooness/python/tree/master/Desktop/python/codeup)
@@ -22,8 +22,8 @@
 
 ## ✏️ **3주차** 기록
    #### 이론 
-> - [[에러/예외처리]](./0718.md)
-> - [[객체지향 프로그래밍]](./0719.md)
+> - [[에러/예외처리]](https://github.com/yeooness/TIL/blob/master/이론정리/0718.md)
+> - [[객체지향 프로그래밍]](https://github.com/yeooness/TIL/blob/master/이론정리/0719.md)
    
    #### 문제풀이
 > - [실습문제 0718](https://github.com/yeooness/python/tree/master/Desktop/python/test0718)
