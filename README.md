@@ -12,7 +12,7 @@
 > - [[파이썬 기초]](https://github.com/yeooness/TIL/blob/master/이론정리/python_basics.md) 
 > - [[조건문,반복문]](https://github.com/yeooness/TIL/blob/master/이론정리/0712.md) 
 > - [[함수]](https://github.com/yeooness/TIL/blob/master/이론정리/0713.md)
-> - [[데이터 구조]](https://github.com/yeooness/TIL/blob/master/이론정리/0714.md 
+> - [[데이터 구조]](https://github.com/yeooness/TIL/blob/master/이론정리/0714.md)
 
    #### 문제풀이
 > - [codeup](https://github.com/yeooness/python/tree/master/Desktop/python/codeup)
