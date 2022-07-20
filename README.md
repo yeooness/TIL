@@ -24,6 +24,7 @@
    #### 이론 
 > - [[에러/예외처리]](https://github.com/yeooness/TIL/blob/master/이론정리/0718.md)
 > - [[객체지향 프로그래밍]](https://github.com/yeooness/TIL/blob/master/이론정리/0719.md)
+> - [[클래스, 객체지향의 핵심개념]](https://github.com/yeooness/TIL/blob/master/이론정리/0720.md)
    
    #### 문제풀이
 > - [실습문제 0718](https://github.com/yeooness/python/tree/master/Desktop/python/test0718)
