@@ -32,3 +32,6 @@
 > - [실습문제 0719](https://github.com/yeooness/python/tree/master/Desktop/python/test0719)
 > - [codeup](https://github.com/yeooness/python/tree/master/Desktop/python/codeup)
 > - [SWEA](https://github.com/yeooness/python/tree/master/Desktop/python/SWEA)
+
+## ✏️ **4주차** 기록
+> - [BAEKJOON]()
