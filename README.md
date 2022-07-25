@@ -34,4 +34,4 @@
 > - [SWEA](https://github.com/yeooness/python/tree/master/Desktop/python/SWEA)
 
 ## ✏️ **4주차** 기록
-> - [BAEKJOON]()
+> - [BAEKJOON](https://github.com/yeooness/python/tree/master/Desktop/python/BAEKJOON)
