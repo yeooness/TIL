@@ -34,4 +34,10 @@
 > - [SWEA](https://github.com/yeooness/python/tree/master/Desktop/python/SWEA)
 
 ## ✏️ **4주차** 기록
+   #### 이론 
+> - [[알고리즘]](https://github.com/yeooness/TIL/blob/master/이론정리/0725.md)
+> - [[시간복잡도/빅오표기법]](https://github.com/yeooness/TIL/blob/master/이론정리/0726.md)
+  
+  #### 문제풀이
 > - [BAEKJOON](https://github.com/yeooness/python/tree/master/Desktop/python/BAEKJOON)
+> - [SWEA](https://github.com/yeooness/python/tree/master/Desktop/python/SWEA)
