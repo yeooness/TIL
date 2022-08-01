@@ -19,6 +19,7 @@
 > - [실습문제 0712](https://github.com/yeooness/python/tree/master/Desktop/python/test0712)
 > - [실습문제 0713](https://github.com/yeooness/python/tree/master/Desktop/python/test0713)
 > - [실습문제 0714](https://github.com/yeooness/python/tree/master/Desktop/python/test0714)
+> - [project01](https://github.com/yeooness/python/tree/master/Desktop/python/project/project01)
 
 ## ✏️ **3주차** 기록
    #### 이론 
@@ -32,13 +33,16 @@
 > - [실습문제 0719](https://github.com/yeooness/python/tree/master/Desktop/python/test0719)
 > - [codeup](https://github.com/yeooness/python/tree/master/Desktop/python/codeup)
 > - [SWEA](https://github.com/yeooness/python/tree/master/Desktop/python/SWEA)
+> - [project02](https://github.com/yeooness/python/tree/master/Desktop/python/project/project02)
 
 ## ✏️ **4주차** 기록
    #### 이론 
 > - [[알고리즘]](https://github.com/yeooness/TIL/blob/master/이론정리/0725.md)
 > - [[시간복잡도/빅오표기법]](https://github.com/yeooness/TIL/blob/master/이론정리/0726.md)
 > - [[자료구조_문자열]](https://github.com/yeooness/TIL/blob/master/이론정리/0727.md)
-  
+> - [[자료구조_딕셔너리]](https://github.com/yeooness/TIL/blob/master/이론정리/0728.md)
+
   #### 문제풀이
 > - [BAEKJOON](https://github.com/yeooness/python/tree/master/Desktop/python/BAEKJOON)
 > - [SWEA](https://github.com/yeooness/python/tree/master/Desktop/python/SWEA)
+> - [project03](https://github.com/yeooness/python/tree/master/Desktop/python/project/project03)
