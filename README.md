@@ -46,3 +46,7 @@
 > - [BAEKJOON](https://github.com/yeooness/python/tree/master/Desktop/python/BAEKJOON)
 > - [SWEA](https://github.com/yeooness/python/tree/master/Desktop/python/SWEA)
 > - [project03](https://github.com/yeooness/python/tree/master/Desktop/python/project/project03)
+
+## ✏️ **5주차** 기록
+   #### 이론 
+> - [[자료구조_스택/큐]](https://github.com/yeooness/TIL/blob/master/이론정리/0801.md)
