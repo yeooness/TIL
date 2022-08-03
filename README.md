@@ -50,3 +50,5 @@
 ## ✏️ **5주차** 기록
    #### 이론 
 > - [[자료구조_스택/큐]](https://github.com/yeooness/TIL/blob/master/이론정리/0801.md)
+> - [[자료구조_힙/셋]](https://github.com/yeooness/TIL/blob/master/이론정리/0802.md)
+
