@@ -51,4 +51,4 @@
    #### 이론 
 > - [[자료구조_스택/큐]](https://github.com/yeooness/TIL/blob/master/이론정리/0801.md)
 > - [[자료구조_힙/셋]](https://github.com/yeooness/TIL/blob/master/이론정리/0802.md)
-
+> - [[이차원 리스트]](https://github.com/yeooness/TIL/blob/master/이론정리/0803.md)
