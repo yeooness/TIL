@@ -26,15 +26,16 @@
 |                        | `220727` | [자료구조_문자열](https://github.com/yeooness/TIL/blob/master/이론정리/0727.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220727) |
 |                        | `220728` | [자료구조_딕셔너리](https://github.com/yeooness/TIL/blob/master/이론정리/0728.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220728) |
 |                        | `220729` | Project03                                                    | [Project03](https://github.com/yeooness/python/tree/master/Desktop/python/project/project03) |
-| 5**주차** *Algorithm*  | `220801` | [자료구조_스택/큐](https://github.com/yeooness/TIL/blob/master/이론정리/0801.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220801) |
+| **5주차** *Algorithm*  | `220801` | [자료구조_스택/큐](https://github.com/yeooness/TIL/blob/master/이론정리/0801.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220801) |
 |                        | `220802` | [자료구조_힙/셋](https://github.com/yeooness/TIL/blob/master/이론정리/0802.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220802) |
 |                        | `220803` | [이차원 리스트](https://github.com/yeooness/TIL/blob/master/이론정리/0803.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220803) |
 |                        | `220804` | [이차원 리스트](https://github.com/yeooness/TIL/blob/master/이론정리/0804.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/220804) |
 |                        | `220805` | Project04                                                    | [Project04](https://github.com/yeooness/python/tree/master/Desktop/python/project/project04) |
-| 6주차  *Algorithm*     | `220808` | [완전탐색](https://github.com/yeooness/TIL/blob/master/이론정리/0808.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/220808) |
-|                        |          |                                                              |                                                              |
-|                        |          |                                                              |                                                              |
-|                        |          |                                                              |                                                              |
+| **6주차** *Algorithm*  | `220808` | [완전탐색](https://github.com/yeooness/TIL/blob/master/이론정리/0808.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/220808) |
+|                        | `220809` | [그래프](https://github.com/yeooness/TIL/blob/master/이론정리/0809.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/220809) |
+|                        | `220810` |                                                              |                                                              |
+|                        | `220811` |                                                              |                                                              |
+|                        | `220812` |                                                              |                                                              |
 
 <br>
 
