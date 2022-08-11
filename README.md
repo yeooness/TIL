@@ -21,20 +21,20 @@
 |                        | `220720` | [클래스, 객체지향의 핵심개념](https://github.com/yeooness/TIL/blob/master/이론정리/0720.md) | [codeup](https://github.com/yeooness/python/tree/master/Desktop/python/codeup) |
 |                        | `220721` | [파이썬 응용/심화](https://github.com/yeooness/TIL/blob/master/이론정리/0721.md) | [SWEA](https://github.com/yeooness/python/tree/master/Desktop/python/SWEA) |
 |                        | `220722` | Project02                                                    | [Project02](https://github.com/yeooness/python/tree/master/Desktop/python/project/project02) |
-| **4주차** *Algorithm*  | `220725` | [알고리즘](https://github.com/yeooness/TIL/blob/master/이론정리/0725.md) | [SWEA](https://github.com/yeooness/python/tree/master/Desktop/python/SWEA)<br>[Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220725) |
-|                        | `220726` | [시간복잡도/빅오표기법](https://github.com/yeooness/TIL/blob/master/이론정리/0726.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220726) |
-|                        | `220727` | [자료구조_문자열](https://github.com/yeooness/TIL/blob/master/이론정리/0727.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220727) |
-|                        | `220728` | [자료구조_딕셔너리](https://github.com/yeooness/TIL/blob/master/이론정리/0728.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220728) |
+| **4주차** *Algorithm*  | `220725` | [알고리즘](https://github.com/yeooness/TIL/blob/master/이론정리/0725.md) | [SWEA](https://github.com/yeooness/python/tree/master/Desktop/python/SWEA)<br>[Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/20220725) |
+|                        | `220726` | [시간복잡도/빅오표기법](https://github.com/yeooness/TIL/blob/master/이론정리/0726.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/20220726) |
+|                        | `220727` | [자료구조_문자열](https://github.com/yeooness/TIL/blob/master/이론정리/0727.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/20220727) |
+|                        | `220728` | [자료구조_딕셔너리](https://github.com/yeooness/TIL/blob/master/이론정리/0728.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/20220728) |
 |                        | `220729` | Project03                                                    | [Project03](https://github.com/yeooness/python/tree/master/Desktop/python/project/project03) |
-| **5주차** *Algorithm*  | `220801` | [자료구조_스택/큐](https://github.com/yeooness/TIL/blob/master/이론정리/0801.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220801) |
-|                        | `220802` | [자료구조_힙/셋](https://github.com/yeooness/TIL/blob/master/이론정리/0802.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220802) |
-|                        | `220803` | [이차원 리스트](https://github.com/yeooness/TIL/blob/master/이론정리/0803.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/20220803) |
-|                        | `220804` | [이차원 리스트](https://github.com/yeooness/TIL/blob/master/이론정리/0804.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/220804) |
+| **5주차** *Algorithm*  | `220801` | [자료구조_스택/큐](https://github.com/yeooness/TIL/blob/master/이론정리/0801.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/20220801) |
+|                        | `220802` | [자료구조_힙/셋](https://github.com/yeooness/TIL/blob/master/이론정리/0802.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/20220802) |
+|                        | `220803` | [이차원 리스트](https://github.com/yeooness/TIL/blob/master/이론정리/0803.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/20220803) |
+|                        | `220804` | [이차원 리스트](https://github.com/yeooness/TIL/blob/master/이론정리/0804.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/220804) |
 |                        | `220805` | Project04                                                    | [Project04](https://github.com/yeooness/python/tree/master/Desktop/python/project/project04) |
-| **6주차** *Algorithm*  | `220808` | [완전탐색](https://github.com/yeooness/TIL/blob/master/이론정리/0808.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/220808) |
-|                        | `220809` | [그래프](https://github.com/yeooness/TIL/blob/master/이론정리/0809.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/220809) |
-|                        | `220810` | [DFS](https://github.com/yeooness/TIL/blob/master/이론정리/0810.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/220810) |
-|                        | `220811` | [단순구현](https://github.com/yeooness/TIL/blob/master/이론정리/0810.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/2회차/황여원/220811) |
+| **6주차** *Algorithm*  | `220808` | [완전탐색](https://github.com/yeooness/TIL/blob/master/이론정리/0808.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/220808) |
+|                        | `220809` | [그래프](https://github.com/yeooness/TIL/blob/master/이론정리/0809.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/220809) |
+|                        | `220810` | [DFS](https://github.com/yeooness/TIL/blob/master/이론정리/0810.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/220810) |
+|                        | `220811` | [단순구현](https://github.com/yeooness/TIL/blob/master/이론정리/0810.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/220811) |
 |                        | `220812` | project05                                                    |                                                              |
 
 <br>
