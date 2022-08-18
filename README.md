@@ -38,7 +38,7 @@
 |                        | `220812` | project05                                                    | [Project05](https://github.com/yeooness/python/tree/master/Desktop/python/project/project05) |
 | **7주차** *Database*   | `220816` | [DB01](https://github.com/yeooness/TIL/blob/master/이론정리/0816.md) |                                                              |
 |                        | `220817` | [DB02](https://github.com/yeooness/TIL/blob/master/이론정리/0817.md) |                                                              |
-|                        | `220818` |                                                              |                                                              |
+|                        | `220818` | [DB03](https://github.com/yeooness/TIL/blob/master/이론정리/0818.md) |                                                              |
 |                        | `220819` |                                                              |                                                              |
 
 <br>
