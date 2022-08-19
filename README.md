@@ -39,7 +39,7 @@
 | **7주차** *Database*   | `220816` | [DB01](https://github.com/yeooness/TIL/blob/master/이론정리/0816.md) |                                                              |
 |                        | `220817` | [DB02](https://github.com/yeooness/TIL/blob/master/이론정리/0817.md) |                                                              |
 |                        | `220818` | [DB03](https://github.com/yeooness/TIL/blob/master/이론정리/0818.md) |                                                              |
-|                        | `220819` |                                                              |                                                              |
+|                        | `220819` | [DB04](https://github.com/yeooness/TIL/blob/master/이론정리/0819.md) |                                                              |
 
 <br>
 
