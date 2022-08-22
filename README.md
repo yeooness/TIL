@@ -40,6 +40,11 @@
 |                        | `220817` | [DB02](https://github.com/yeooness/TIL/blob/master/이론정리/0817.md) |                                                              |
 |                        | `220818` | [DB03](https://github.com/yeooness/TIL/blob/master/이론정리/0818.md) |                                                              |
 |                        | `220819` | [DB04](https://github.com/yeooness/TIL/blob/master/이론정리/0819.md) |                                                              |
+| **8주차** *Database*   | `220822` | [DB05](https://github.com/yeooness/TIL/blob/master/이론정리/0822.md) |                                                              |
+|                        | `220823` |                                                              |                                                              |
+|                        | `220824` |                                                              |                                                              |
+|                        | `220825` |                                                              |                                                              |
+|                        | `220826` |                                                              |                                                              |
 
 <br>
 
