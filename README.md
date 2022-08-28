@@ -42,8 +42,8 @@
 |                        | `220819` | [DB04](https://github.com/yeooness/TIL/blob/master/이론정리/0819.md) | [DB_04 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_04.md) |
 | **8주차** *Database*   | `220822` | [DB05](https://github.com/yeooness/TIL/blob/master/이론정리/0822.md) | [DB_05 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_05.md) |
 |                        | `220823` | [DB06](https://github.com/yeooness/TIL/blob/master/이론정리/0823.md) |                                                              |
-|                        | `220824` | [DB07](https://github.com/yeooness/TIL/blob/master/이론정리/0824.md) | [DB_06 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_06.md) |
-|                        | `220825` | [DB08](https://github.com/yeooness/TIL/blob/master/이론정리/0825.md) | [DB_07 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_07.md) |
+|                        | `220824` | [DB07](https://github.com/yeooness/TIL/blob/master/이론정리/0824.md) | [DB_07실습](https://github.com/yeooness/TIL/blob/master/DB/DB_07.md) |
+|                        | `220825` | [DB08](https://github.com/yeooness/TIL/blob/master/이론정리/0825.md) | [DB_08 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_08.md) |
 |                        | `220826` | 특강/모의고사                                                | [프로그래머스](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) |
 
 <br>
