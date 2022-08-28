@@ -36,15 +36,15 @@
 |                        | `220810` | [DFS](https://github.com/yeooness/TIL/blob/master/이론정리/0810.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/220810) |
 |                        | `220811` | [단순구현](https://github.com/yeooness/TIL/blob/master/이론정리/0810.md) | [Algorithm 실습](https://github.com/yeooness/01-ALGORITHM/tree/master/황여원/220811) |
 |                        | `220812` | project05                                                    | [Project05](https://github.com/yeooness/python/tree/master/Desktop/python/project/project05) |
-| **7주차** *Database*   | `220816` | [DB01](https://github.com/yeooness/TIL/blob/master/이론정리/0816.md) |                                                              |
-|                        | `220817` | [DB02](https://github.com/yeooness/TIL/blob/master/이론정리/0817.md) |                                                              |
-|                        | `220818` | [DB03](https://github.com/yeooness/TIL/blob/master/이론정리/0818.md) |                                                              |
-|                        | `220819` | [DB04](https://github.com/yeooness/TIL/blob/master/이론정리/0819.md) |                                                              |
-| **8주차** *Database*   | `220822` | [DB05](https://github.com/yeooness/TIL/blob/master/이론정리/0822.md) |                                                              |
+| **7주차** *Database*   | `220816` | [DB01](https://github.com/yeooness/TIL/blob/master/이론정리/0816.md) | [DB_01 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_01.md) |
+|                        | `220817` | [DB02](https://github.com/yeooness/TIL/blob/master/이론정리/0817.md) | [DB_02 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_02.md) |
+|                        | `220818` | [DB03](https://github.com/yeooness/TIL/blob/master/이론정리/0818.md) | [DB_03 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_03.md) |
+|                        | `220819` | [DB04](https://github.com/yeooness/TIL/blob/master/이론정리/0819.md) | [DB_04 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_04.md) |
+| **8주차** *Database*   | `220822` | [DB05](https://github.com/yeooness/TIL/blob/master/이론정리/0822.md) | [DB_05 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_05.md) |
 |                        | `220823` | [DB06](https://github.com/yeooness/TIL/blob/master/이론정리/0823.md) |                                                              |
-|                        | `220824` | [DB07](https://github.com/yeooness/TIL/blob/master/이론정리/0824.md) |                                                              |
-|                        | `220825` | [DB08](https://github.com/yeooness/TIL/blob/master/이론정리/0825.md) |                                                              |
-|                        | `220826` | 특강/모의고사                                                |                                                              |
+|                        | `220824` | [DB07](https://github.com/yeooness/TIL/blob/master/이론정리/0824.md) | [DB_06 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_06.md) |
+|                        | `220825` | [DB08](https://github.com/yeooness/TIL/blob/master/이론정리/0825.md) | [DB_07 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_07.md) |
+|                        | `220826` | 특강/모의고사                                                | [프로그래머스](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) |
 
 <br>
 
