@@ -46,9 +46,9 @@
 |                        | `220825` | [DB08](https://github.com/yeooness/TIL/blob/master/이론정리/0825.md) | [DB_08 실습](https://github.com/yeooness/TIL/blob/master/DB/DB_08.md) |
 |                        | `220826` | 특강/모의고사                                                | [프로그래머스](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) |
 | **9주차** *Web*        | `220829` | [web01](https://github.com/yeooness/TIL/blob/master/이론정리/0829.md) |                                                              |
-|                        | `220830` | [web02](https://github.com/yeooness/TIL/blob/master/이론정리/0830.md) |                                                              |
-|                        | `220831` | [web03](https://github.com/yeooness/TIL/blob/master/이론정리/0831.md) |                                                              |
-|                        | `220901` |                                                              |                                                              |
+|                        | `220830` | [web02](https://github.com/yeooness/TIL/blob/master/이론정리/0830.md) | [실습01](https://github.com/yeooness/TIL/tree/master/Web/실습/실습1) |
+|                        | `220831` | [web03](https://github.com/yeooness/TIL/blob/master/이론정리/0831.md) | [실습02](https://github.com/yeooness/TIL/tree/master/Web/실습/실습2) |
+|                        | `220901` |                                                              | [실습03](https://github.com/yeooness/TIL/tree/master/Web/실습/실습3) |
 |                        | `220902` |                                                              |                                                              |
 
 <br>
