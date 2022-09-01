@@ -1,1 +1,19 @@
 /* 아래에 CSS를 작성해주세요. */
+.card {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin: 0 auto;
+}
+.p1 {
+  color:gray;
+}
+.color {
+  color:skyblue;
+  margin-right: 5px;
+  font-size:20px;
+}
+.spacing {
+  letter-spacing: -1px;
+}

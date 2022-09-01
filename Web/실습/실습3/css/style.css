@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  min-width: 1280px;
+  color: #333333;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  height: 50px;
+  align-items: center;
+}
+
+.logo {
+  margin: 0 15px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.link:hover {
+  color: white;
+  background-color: black;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+}
+
+.list-item {
+  margin: 0 10px;
+}
+
+.banner {
+  background-image: url("../assets/apparel.jpeg");
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.article {
+    display: flex;
+    margin: 0px auto;
+  }
+
+.main-img {
+  width: 500px;
+  float: left;
+  border-radius: 5%;
+  margin: 30px;
+  padding: 10px;
+}
+
+.title {
+  text-align: center;
+  padding: 10px;
+  font-size: 1.5rem;
+  margin: 30px;
+}
+
+.text {
+  padding-top: 1rem;
+  line-height: 2rem;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer-text {
+  margin-bottom: 10px;
+}
+
+.footer-img {
+  height: 64px;
+  width: 64px;
+  margin:0 auto;
+}
+
+.footer-txt {
+  text-align: center;
+  font-size: 10px;
+  line-height: 1rem;
+}
+
+.top-btn {
+  bottom: 4rem;
+  right: 4rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  position: fixed;
+}
+
+.top-btn img {
+  width: 30px;
+  height: 30px;
+}
+
+/* products */
+.products-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2rem auto;
+}
+
+.products {
+  width: 350px;
+  border: 1px solid black;
+  margin: 1rem;
+}
+
+.product-img {
+  width: 100%;
+}
+
+.product-txt {
+  text-align: center;
+}
+
+.product-p {
+  font-size: 1rem;
+  padding: 0.3rem;
+}

@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+.text {
+  text-align: center;
+}
+.subtext {
+  font-size: 12px;
+  display: block;
+}
+.item-list {
+  width: 900px;
+}
+.item {
+  width: 300px;
+  padding : 5px 10px 10px;
+  display: inline-block;
+}
+.item-img {
+  width: 100%;
+  border-radius : 1rem;
+}
+.spacing {
+  letter-spacing : -1.8px;
+  color : rgb(169, 165, 165);
+}
+.sentence {
+  font-size: 18px;
+  letter-spacing: -1px;
+}
+.color {
+  color:gray;
+}
