@@ -17,10 +17,12 @@ body {
   top: 0;
   height: 50px;
   align-items: center;
+  background-color: white;
 }
 
 .logo {
-  margin: 0 15px;
+  font-size: large;
+  font-weight: bold;
 }
 
 .link {
@@ -35,18 +37,35 @@ body {
 
 .list {
   display: flex;
-  align-items: center;
 }
 
 .list-item {
-  margin: 0 10px;
+  width: 6rem;
+  text-align: center;
 }
 
 .banner {
-  background-image: url("../assets/apparel.jpeg");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   height: 700px;
-  background-repeat: no-repeat;
+  background-image: url('../assets/apparel.jpeg');
   background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.banner-title {
+  margin: 2rem;
+  color: black;
+  font-size: 5rem;
+  font-weight: bolder;
+}
+
+/* main */
+.container {
+  width: 1280px;
+  margin: 0 auto;
 }
 
 .article {
