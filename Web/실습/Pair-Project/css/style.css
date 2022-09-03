@@ -1,6 +1,7 @@
 body {
   height: 10000px;
 }
+
 .logo-img {
   height: 60px;
   
@@ -14,6 +15,7 @@ body {
   padding: 40px;
   position: sticky;
   top:0;
+  background-color: white;
 }
 
 .movie-list {
@@ -70,13 +72,17 @@ body {
   flex-direction: column;
   text-align: center;
   font-weight: bold;
-  
+  position: relative;
 }
 
 .poster {
   width: 300px;
   padding: 24px;
   border-radius: 2rem;
+  opacity: 1;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
   
 }
 
@@ -105,4 +111,39 @@ body {
   color: white;
   background-color: black;
   text-align: center;
+}
+
+/* Image Hover Overlay  */
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.out-poster:hover .poster {
+  opacity: 0.3;
+}
+
+.out-poster:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #990303;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+.overlay {
+  color:white
+}
+
+.overlay:hover {
+  color: rgb(249, 248, 248);
 }

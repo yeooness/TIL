@@ -129,7 +129,7 @@ a {
 }
 
 a:hover {
-  color: #0056b3;
+  color: rgb(178, 6, 6);
   text-decoration: underline;
 }
 
