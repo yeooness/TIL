@@ -49,7 +49,7 @@
 |                        | `220830` | [web02](https://github.com/yeooness/TIL/blob/master/이론정리/0830.md) | [실습01](https://github.com/yeooness/TIL/tree/master/Web/실습/실습1) |
 |                        | `220831` | [web03](https://github.com/yeooness/TIL/blob/master/이론정리/0831.md) | [실습02](https://github.com/yeooness/TIL/tree/master/Web/실습/실습2) |
 |                        | `220901` |                                                              | [실습03](https://github.com/yeooness/TIL/tree/master/Web/실습/실습3) |
-|                        | `220902` |                                                              |                                                              |
+|                        | `220902` | 페어프로젝트                                                 | [Pair project](https://github.com/yeooness/TIL/tree/master/Web/실습/Pair-Project) |
 
 <br>
 
