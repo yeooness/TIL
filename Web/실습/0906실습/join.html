@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>회원가입</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+  <h1 class="text-center my-5">회원가입</h1>
+  <form>
+    <!-- 이메일 -->
+    <div class="form-group mb-3">
+      <label for="InputEmail1" class="form-label">이메일</label>
+      <input type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp">
+      <div id="emailHelp" class="form-text">가입시 필요한 이메일 주소를 입력해주세요.</div>
+    </div>
+    <!-- 비밀번호 -->
+    <div class="form-group has-success mb-3">
+      <label for="InputPassword" class="form-label">비밀번호</label>
+      <input type="password" class="form-control is-valid" id="InputPassword">
+      <div class="valid-feed-back"></div>
+    </div>
+    <!-- 비밀번호 확인 -->
+    <div class="form-group has-danger mb-3">
+      <label for="ConfimrPassword" class="form-label">비밀번호 확인</label>
+      <input type="password" class="form-control is-invalid" id="ConfimrPassword">
+      <div id="confirm-password" class="form-text">비밀번호를 동일하게 작성해주세요.</div>
+    </div>
+    <!-- 프로필 사진 -->
+    <div class="form-group mb-3">
+      <label for="formFile" class="form-label">프로필 사진</label>
+      <input class="form-control" type="file" id="formFile">
+    </div>
+    <!-- 개인정보 수집 동의 -->
+    <div class="form-group mb-3 form-check">
+      <input type="checkbox" class="form-check-input" id="exampleCheck1">
+      <label class="form-check-label" for="exampleCheck1">개인정보 활용에 동의합니다.</label>
+    </div>
+    <!-- 회원가입 -->
+    <button type="submit" class="btn btn-primary">가입신청</button>
+  </form>
+</div>  
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js" integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK" crossorigin="anonymous"></script>  
+</body>
+</html>
