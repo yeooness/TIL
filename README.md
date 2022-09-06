@@ -51,7 +51,7 @@
 |                        | `220901` |                                                              | [실습03](https://github.com/yeooness/TIL/tree/master/Web/실습/실습3) |
 |                        | `220902` | 페어프로젝트                                                 | [Pair project](https://github.com/yeooness/TIL/tree/master/Web/실습/Pair-Project) |
 | **10주차** *Web*       | `220905` | [web04](https://github.com/yeooness/TIL/blob/master/이론정리/0905.md) |                                                              |
-|                        | `220906` |                                                              |                                                              |
+|                        | `220906` |                                                              | [0906실습](https://github.com/yeooness/TIL/tree/master/Web/실습/0906실습) |
 |                        | `220907` |                                                              |                                                              |
 |                        | `220908` |                                                              |                                                              |
 |                        |          |                                                              |                                                              |
