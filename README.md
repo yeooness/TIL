@@ -53,7 +53,7 @@
 | **10주차** *Web*       | `220905` | [web04](https://github.com/yeooness/TIL/blob/master/이론정리/0905.md) |                                                              |
 |                        | `220906` |                                                              | [0906실습](https://github.com/yeooness/TIL/tree/master/Web/실습/0906실습) |
 |                        | `220907` | [bootstrap-grid](https://github.com/yeooness/TIL/blob/master/이론정리/0907.md) | [0907실습](https://github.com/yeooness/TIL/tree/master/Web/실습/0907실습) |
-|                        | `220908` |                                                              |                                                              |
+|                        | `220908` |                                                              | [0908실습](https://github.com/yeooness/TIL/tree/master/Web/실습/0908실습) |
 |                        |          |                                                              |                                                              |
 
 <br>
