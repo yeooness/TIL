@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Home</title>
   <!-- CSS only -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/quiple/hbios-sys@latest/hbios-sys.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 <style>
   .carousel-inner{
@@ -15,36 +16,36 @@
   .box{
     width:300px;
     margin:1rem;
+    box-shadow: 15px 15px 20px rgba(0,0,0,0.274);
   }
-  /* html, body {
-    height : 100%
+  .box :hover {
+    transition: 0.5s;
+    scale: 1.2;
   }
-  body {
-        display: flex;
-        flex-direction: column;
-        margin: 0;
-      } */
+
 </style>
 </head>
-<body>
+<body style="font-family:HBIOS-SYS">
 <!-- nav -->
-  <nav class="navbar navbar-expand navbar-dark bg-dark">
-    <div class="container">
-      <a class="navbar-brand"  href="#">
-        <img src="./images-2/logo.png" alt="Bootstrap" width="80px" >
-      </a>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="./02_home.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./03_community.html">Communitiy</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">Login</a>
-          </li>
-  <!-- Modal -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="./01_nav_footer.html"><img src="./images-2/logo.png" alt="Bootstrap" width="80px" ></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="./02_home.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./03_community.html">Community</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">Login</a>
+      </ul>
+    </div>
+  </div>
   <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content">
@@ -80,21 +81,18 @@
       </div>
     </div>
   </div>
+</nav>
 
-        </ul>
-      </div>
-    </div>
-  </nav>
     <div id="carouselExampleControls" class="carousel slide overflow-hidden" data-bs-ride="carousel">
       <div class="carousel-inner overflow-hidden">
-        <div class="carousel-item active h-100 overflow-hidden">
-          <img src="./images-2/bg1.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-item active h-100 overflow-hidden img-fluid">
+          <img src="./images-2/Boo14.jpg" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item h-100 overflow-hidden">
-          <img src="./images-2/bg2.jpg" class="d-block w-100" alt="...">
+          <img src="./images-2/BoosRoom13.jpg" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item h-100 overflow-hidden">
-          <img src="./images-2/bg3.jpg" class="d-block w-100" alt="...">
+          <img src="./images-2/Mike14.jpeg" class="d-block w-100" alt="...">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -109,12 +107,12 @@
     <div class="container">
       <h2 class="text-center">Boxoffice</h2>
       <div class="row row-cols-lg-3 row-cols-xs-1 g-3 d-flex justify-content-center">
-        <div class="col d-flex justify-content-center"><div class="box"><img class="img-fluid" src="./images-2/movie1.jpg" alt=""></div></div>
-        <div class="col d-flex justify-content-center"><div class="box"><img class="img-fluid" src="./images-2/movie2.jpg" alt=""></div></div>
-        <div class="col d-flex justify-content-center"><div class="box"><img class="img-fluid" src="./images-2/movie3.jpg" alt=""></div></div>
-        <div class="col d-flex justify-content-center"><div class="box"><img class="img-fluid" src="./images-2/movie4.jpg" alt=""></div></div>
-        <div class="col d-flex justify-content-center"><div class="box"><img class="img-fluid" src="./images-2/movie5.jpg" alt=""></div></div>
-        <div class="col d-flex justify-content-center"><div class="box"><img class="img-fluid" src="./images-2/movie6.jpg" alt=""></div></div>
+        <div class="col d-flex justify-content-center"><div class="box rounded-3"><a href="./05_movie.html"><img class="img-fluid rounded-3" src="./images-2/movie1.jpg" alt=""></a></div></div>
+        <div class="col d-flex justify-content-center"><div class="box rounded-3"><a href="./06_movie.html"><img class="img-fluid rounded-3" src="./images-2/movie2.jpg" alt=""></a></div></div>
+        <div class="col d-flex justify-content-center"><div class="box rounded-3"><a href="./07_movie.html"><img class="img-fluid rounded-3" src="./images-2/movie3.jpg" alt=""></a></div></div>
+        <div class="col d-flex justify-content-center"><div class="box rounded-3"><a href="./08_movie.html"><img class="img-fluid rounded-3" src="./images-2/movie4.jpg" alt=""></a></div></div>
+        <div class="col d-flex justify-content-center"><div class="box rounded-3"><a href="./09_movie.html"><img class="img-fluid rounded-3" src="./images-2/movie5.jpg" alt=""></a></div></div>
+        <div class="col d-flex justify-content-center"><div class="box rounded-3"><a href="./10_movie.html"><img class="img-fluid rounded-3" src="./images-2/movie6.jpg" alt=""></a></div></div>
       </div>
     </div>
     
