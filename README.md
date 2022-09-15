@@ -54,6 +54,10 @@
 |                        | `220906` |                                                              | [0906실습](https://github.com/yeooness/TIL/tree/master/Web/실습/0906실습) |
 |                        | `220907` | [bootstrap-grid](https://github.com/yeooness/TIL/blob/master/이론정리/0907.md) | [0907실습](https://github.com/yeooness/TIL/tree/master/Web/실습/0907실습) |
 |                        | `220908` |                                                              | [0908실습](https://github.com/yeooness/TIL/tree/master/Web/실습/0908실습) |
+| **11주차** *Web*       | `220913` | 페어프로젝트                                                 |                                                              |
+|                        | `220914` | 페어프로젝트                                                 | [Pair project](https://github.com/yeooness/TIL/tree/master/Web/실습/project02) |
+|                        | `220915` |                                                              |                                                              |
+|                        | `220916` |                                                              |                                                              |
 |                        |          |                                                              |                                                              |
 
 <br>
