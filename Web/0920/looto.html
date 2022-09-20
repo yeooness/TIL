@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>lotto</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap');
+    body {
+      background-color: lightblue;
+      font-family: 'Hi Melody', cursive;
+    }
+    .lotto{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .btn {
+      padding: 5px 12px;
+      font-size: large;
+      font-family: HBIOS-SYS;
+      margin-bottom: 1rem;
+    }
+    .ball {
+      display: inline-block;
+      width: 100px;
+      height: 100px;
+      margin: .3rem;
+      border-radius: 50%;
+      /* 컨텐츠 중앙, 수직 정렬 */
+      text-align: center;
+      line-height: 100px;
+      /* 폰트 */
+      font-size: 32px;
+      font-weight: bold;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="lotto">
+    <h1>Lotto 번호 추첨기</h1>
+    <button id="lotto-btn" class="btn">행운번호 추첨</button>
+    <section id="result"></section>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+  <script>
+  // 공 컬러 
+  var lottoColors = ["#FFCC00", "#3366FF", "#FF0000", "#999999", "#339933"]
+
+    const button = document.querySelector('#lotto-btn')
+    button.addEventListener('click', function() {
+
+      // 랜덤 숫자 생성, sort 
+      const lottoNums = _.sampleSize(_.range(1, 46), 6).sort((a, b)=> a - b)
+
+      // lottonumbers 반복해서 출력 
+      const section = document.createElement('section')
+      lottoNums.forEach(number => {
+        const div = document.createElement('div')
+        div.innerText = number
+        div.classList.add('ball')
+        div.style.backgroundColor = lottoColors[Math.floor((number)/10)]
+        section.appendChild(div)
+        console.log(number)
+      })
+
+      // 결과 영역에 붙인다 
+      const result = document.querySelector('#result')
+      result.appendChild(section)
+    })
+  </script>
+</body>
+</html>
