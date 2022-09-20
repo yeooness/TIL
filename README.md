@@ -58,6 +58,11 @@
 |                        | `220914` | 페어프로젝트                                                 | [Pair project](https://github.com/yeooness/TIL/tree/master/Web/실습/project02) |
 |                        | `220915` |                                                              |                                                              |
 |                        | `220916` |                                                              |                                                              |
+| **12주차** *Web*       | `220919` | [js](https://github.com/yeooness/TIL/blob/master/이론정리/0919.md) |                                                              |
+|                        | `220920` |                                                              |                                                              |
+|                        | `220921` |                                                              |                                                              |
+|                        | `220922` |                                                              |                                                              |
+|                        |          |                                                              |                                                              |
 |                        |          |                                                              |                                                              |
 
 <br>
