@@ -60,8 +60,8 @@
 |                        | `220916` |                                                              |                                                              |
 | **12주차** *Web*       | `220919` | [js](https://github.com/yeooness/TIL/blob/master/이론정리/0919.md) |                                                              |
 |                        | `220920` |                                                              |                                                              |
-|                        | `220921` |                                                              |                                                              |
-|                        | `220922` |                                                              |                                                              |
+|                        | `220921` | [django01](https://github.com/yeooness/TIL/blob/master/이론정리/0921.md) |                                                              |
+|                        | `220922` | [django02](https://github.com/yeooness/TIL/blob/master/이론정리/0922.md) |                                                              |
 |                        |          |                                                              |                                                              |
 |                        |          |                                                              |                                                              |
 
