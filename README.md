@@ -62,7 +62,7 @@
 |                        | `220920` |                                                              |                                                              |
 |                        | `220921` | [django01](https://github.com/yeooness/TIL/blob/master/이론정리/0921.md) |                                                              |
 |                        | `220922` | [django02](https://github.com/yeooness/TIL/blob/master/이론정리/0922.md) |                                                              |
-|                        |          |                                                              |                                                              |
+|                        | `220923` | 페어프로젝트                                                 | 영화사이트 개발 기획                                         |
 |                        |          |                                                              |                                                              |
 
 <br>
