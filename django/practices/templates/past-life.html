@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 class="text-center m-3">당신의 전생은?</h1>
+<form action="/past-result" method="GET">
+  <div class="mx-3 mb-3">
+    <label for="myname" class="form-label">이름을 입력하세요.</label>
+    <input type="text" name="q" class="form-control" id="myname">
+  </div>
+  <div>
+    <button type="submit" class="btn btn-primary mx-3">전생 확인하기</button>
+  </div>
+</form>
+
+{% endblock %}
