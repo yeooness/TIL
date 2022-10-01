@@ -1,0 +1,17 @@
+{% extends 'Pair1/base.html' %}
+
+{% block content %}
+<h1>제목:{{c.title}}</h1>
+<p class="fs-3">{{ c.created_at |date:'Y-m-d' }}</p>
+<!-- <img class="w-50" src="https://cdn.pixabay.com/photo/2017/11/24/10/43/ticket-2974645_1280.jpg" alt=""> -->
+<div class="mb-3">
+  <label for="exampleFormControlTextarea1" class="form-label fs-1">리뷰내용</label>
+  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3">{{c.content}}</textarea>
+</div>
+
+<div class="container d-flex justify-content-end">
+  <a href="{% url 'Pair1:edit' c.pk %}"><button type="button" class="btn btn-success mx-1">수정</button></a>
+  <a href="{% url 'Pair1:delete' c.pk %}"><button type="button" class="btn btn-danger mx-1">삭제</button></a>
+  <a href="{% url 'Pair1:index1' c.pk %}"><button type="button" class="btn btn-dark mx-1">Home</a>
+</div>
+{% endblock %}

@@ -1,0 +1,18 @@
+{% extends 'Pair1/base.html' %}
+
+{% block content %}
+<h1 class="text-center text-white">리뷰 작성</h1>
+<form action="{% url 'Pair1:create' %}">
+  <div class="input-group mb-3 me-3">
+    <span class="input-group-text" id="basic-addon1">제목</span>
+    <input name="title" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+  </div>
+  <div class="input-group mb-3 me-3">
+    <span class="input-group-text" id="basic-addon1">내용</span>
+    <input name="content" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+  </div>
+  <div class="d-grid">
+    <button class="btn btn-success col-12 my-3 py-3" type="submit">리뷰 작성</button>
+  </div>
+</form>
+{% endblock %}
