@@ -63,7 +63,11 @@
 |                        | `220921` | [django01](https://github.com/yeooness/TIL/blob/master/이론정리/0921.md) |                                                              |
 |                        | `220922` | [django02](https://github.com/yeooness/TIL/blob/master/이론정리/0922.md) |                                                              |
 |                        | `220923` | 페어프로젝트                                                 | 영화사이트 개발 기획                                         |
-|                        |          |                                                              |                                                              |
+| **13주차** *Web*       | `220926` | django03                                                     | [실습](https://github.com/yeooness/TIL/tree/master/django)   |
+|                        | `220927` |                                                              |                                                              |
+|                        | `220928` |                                                              |                                                              |
+|                        | `220929` |                                                              |                                                              |
+|                        | `220930` | 페어프로젝트                                                 | [영화사이트](https://github.com/yeooness/mirrorpjt)          |
 
 <br>
 
