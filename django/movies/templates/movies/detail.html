@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container m-5">
+  <div class="row mx-5">
+    <div class="col mx-5">
+      <div class="d-flex flex-row-reverse mx-5">
+        <h4>{{ movie.running_time }}분</h4>
+      </div>
+      <div>
+        <h1 class="fw-bold mb-4">{{ movie.title }}</h1>
+        <p>{{ movie.summary }}</p>
+      </div>
+      <a class="btn btn-outline-danger" href="{% url 'movies:delete' movie.pk %}">삭제하기</a>
+      <a class="mx-2 btn btn-outline-success" href="{% url 'movies:update' movie.pk %}">수정하기</a>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
