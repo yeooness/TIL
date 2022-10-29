@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+{% load django_bootstrap5 %}
+{% block body %}
+
+<div class="container mt-5">
+  <h1 class="fw-bold">{{ review.title }}</h1>
+  <h5>작성자 : <a href="{% url 'accounts:detail' review.user.pk %}">{{ review.user }}</a></h5>
+  <div class="d-flex justify-content-between">
+    <p>{{ review.created_at }}
+      작성됨</p>
+    <p class="me-5">{{ review.updated_at }}
+      수정됨</p>
+  </div>
+  <div>
+    <p>영화 제목 : {{ review.movie_name }}</p>
+    <p>내용 : {{ review.content }}</p>
+    <p>평점 : {{ review.grade }} 점</p>
+  </div>
+  {% if request.user.is_authenticated %}
+  <a class="like-heart" href="{% url 'reviews:like' review.pk %}">
+    {% if request.user in review.like_users.all %}
+    <i class="bi bi-heart-fill"></i>
+    {% else %}
+    <i class="bi bi-heart"></i>
+    {% endif %}</a>{{ review.like_users.count }}</span>
+  {% endif %}
+  {% if request.user == review.user %}
+  <div class="text-end me-5">
+    <a class="btn btn-outline-success" href="{% url 'reviews:update' review.pk %}">
+      수정
+    </a>
+    <a class="btn btn-outline-danger" href="{% url 'reviews:delete' review.pk %}">
+      삭제
+    </a>
+  </div>
+  {% endif %}
+  <!-- 댓글 -->
+  <h4 class="my-3">댓글</h4>
+  {% if comments %}
+  <p><b>{{ comments|length }}개의 댓글이 있습니다.</b></p>
+  {% endif %}
+  {% if request.user.is_authenticated %}
+  <form action="{% url 'reviews:comment_create' review.pk %}" method="POST">
+    {% csrf_token %}
+    {% bootstrap_form comment_form layout='inline'%}
+    {% bootstrap_button button_type="submit" content="OK" %}
+  </form>
+  {% endif %}
+  <hr>
+  {% for comment in comments %}
+  <p> {{ comment.user.username }} | {{ comment.content }}</p>
+  <hr>
+  {% empty %}
+  <p>댓글이 없습니다.</p>
+  {% endfor %}
+  {% endblock %}
