@@ -1,0 +1,18 @@
+{% extends 'Pair1/base.html' %}
+{% block content %}
+<form action="{% url 'Pair1:update' c.pk %}">
+  <div class="input-group mb-3 me-3">
+    <span class="input-group-text" id="basic-addon1">제목</span>
+    <input name="title" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1"
+      value="{{c.title}}">
+  </div>
+  <div class="input-group mb-3 me-3">
+    <span class="input-group-text" id="basic-addon1">내용</span>
+    <input name="content" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1"
+      value="{{c.content}}">
+  </div>
+  <div class="d-grid">
+    <button class="btn btn-outline-success col-12 my-3 py-3" type="submit">리뷰 수정</button>
+  </div>
+</form>
+{% endblock %}

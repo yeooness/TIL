@@ -1,0 +1,24 @@
+{% extends 'Pair1/base.html' %}
+
+{% block content %}
+<a href="{% url 'Pair1:new' %}">리뷰 작성</a>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">리뷰 번호</th>
+      <th scope="col">리뷰 제목</th>
+      <th scope="col">작성 시간</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for i in c %}
+    <tr>
+      <th scope="row">{{i.pk}}</th>
+      <td><a href="{% url 'Pair1:detail' i.pk %}">{{i.title}}</a></td>
+      <td>{{i.created_at |date:'Y-m-d'}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
