@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+}
+
+.album {
+  width: auto;
+  padding: 15px;
+  display: flex;
+  margin: 0 auto;
+}
+
+/* 앨범 */
+.new-album {
+  display: flex;
+  flex-direction: column;
+}
+
+.album-items {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+}
+
+.album-item {
+  position: relative;
+}
+
+.album-img {
+  width: 100%;
+  height: 100%;
+}
+
+.artist {
+  position: absolute;
+  z-index: 10;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+  line-height: 2;
+  font-size: 13px;
+  color: #fff;
+}
+
+.artist-box {
+  position: absolute;
+  opacity: .7;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 35px;
+  background-color: #000;
+}
+
+/* 홍보 */
+.event {
+  position: relative;
+  width: 236px;
+  margin: 0 0 0 8px;
+  float: left;
+  height: 340px;
+} 
+
+/* 로그인, 프로모션 */
+.id-wrap {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-between;
+  height: 340px;
+  padding: 10px;
+}
+
+.login-wrap {
+  position: relative;
+  width: 280px;
+  height: 119px;
+}
+
+.button-login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  height: 115px;
+  padding: 0 17px;
+  background: #fbfbfb;
+  border: 1px solid #e0e0e0;
+}
+
+.top-area {
+  margin-bottom: 10px;
+  font-size: 10px;
+}
+
+.register {
+  margin-left: 65px;
+}
+
+.btn-login { 
+  width: 100%;
+  height: 42px;
+  border: 0px;
+  color: white;
+  background-color: #00d344;
+  font-size: 14px;
+}
+
+.log:hover{
+  cursor: pointer;
+  background-color: rgb(1, 147, 47);
+}
+
+.register:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
